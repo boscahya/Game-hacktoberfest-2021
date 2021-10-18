@@ -1,5 +1,5 @@
 # Manish Bishowkarma
-# 18, October, 2021
+# 18 October, 2021
 # Two Player Guess the Number Game
 
 print("\n\n\tWelcome to 'Guess My Number !'")
